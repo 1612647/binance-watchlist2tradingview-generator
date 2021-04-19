@@ -1,0 +1,14 @@
+{
+  "name": "binance-watchlist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thi174hcmus/binance-watchlist2tradingview-generator.git",
+  "author": "ichi-dev <thi174hcmus@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
